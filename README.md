@@ -20,7 +20,10 @@ Key Learnings:
 - Role of blue teams
 - Detecting and responding to attacks
 - Understanding logs, firewalls, and monitoring tools
-
+  
+Screenshots
+![Defensive Room Screenshot 1](./Defensive%20Security/defensive1.png)  
+![Defensive Room Screenshot 2](./Defensive%20Security/defensive2.png)
 
 ##  In Progress
 - Linux Fundamentals
