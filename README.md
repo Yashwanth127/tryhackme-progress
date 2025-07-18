@@ -15,7 +15,7 @@ What I learned:
 
   ### 2. Intro to Defensive Security  
  [View Room](https://tryhackme.com/room/defensivesecurityintro?utm_source=linkedin&utm_medium=social&utm_campaign=social_share&utm_content=utmContent)  
-Date Completed: July 17, 2025  
+Date Completed: July 18, 2025  
 Key Learnings:
 - Role of blue teams
 - Detecting and responding to attacks
