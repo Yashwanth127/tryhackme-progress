@@ -21,6 +21,4 @@ Key Learnings:
 - Detecting and responding to attacks
 - Understanding logs, firewalls, and monitoring tools
   
-##  In Progress
-- Linux Fundamentals
-- Network Security Basics
+
