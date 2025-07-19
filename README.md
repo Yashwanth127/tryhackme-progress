@@ -20,5 +20,12 @@ Key Learnings:
 - Role of blue teams
 - Detecting and responding to attacks
 - Understanding logs, firewalls, and monitoring tools
-  
+
+### 3. Careers in Cyber – TryHackMe  
+ [View Room](https://tryhackme.com/room/careersincyber?utm_source=linkedin&utm_medium=social&utm_campaign=social_share&utm_content=room)  
+Date Completed: July 17, 2025  
+ Key Learnings:
+- Different roles in cybersecurity (Red team, Blue team, SOC, GRC, etc.)
+- What each role does and how they work together
+- How to plan a career path in cybersecurity
 
